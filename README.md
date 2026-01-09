@@ -43,14 +43,6 @@ I'm a passionate developer specializing in building modern, scalable mobile and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nouman-riaz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman-riaz&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nouman-riaz-01598820b/)
