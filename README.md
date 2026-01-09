@@ -61,8 +61,6 @@ Check out my articles on [Medium](https://medium.com/@noumanriaz1177) where I sh
 
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/nouman-riaz/count.svg)
-
 ---
 
 ⭐️ From [Nouman Riaz](https://github.com/nouman-riaz)
